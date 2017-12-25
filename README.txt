@@ -1,9 +1,8 @@
 /*
- *
  * THIS FILE CONTAINS ALL MAKEHAVEN SPECIFIC DOCUMENTATION AND A BRIEF GLITCH TUTORIAL
- *
  */
  
+ This bot was created in collaboration with two other Columbia University students. The bot was built using the Slack API and glitch/Botkit. We created the bot to the specifications of a New Haven non-profit, who needed the bot for on-boarding of new members via Slack.
 
  
 Authorization Link
@@ -100,7 +99,7 @@ every Monday
  By typing in the above code (starting at / and ending at Monday) into a channel and writing the proper channel name, an individual can set up weekly reminders to remind channel members to participate in upcoming events or 
  watch MakeHaven tool videos.
  
- 6. suggestions for optimization:
+
  
  
   
